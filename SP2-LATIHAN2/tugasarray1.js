@@ -1,0 +1,19 @@
+var ListKelurahanBantul = [
+    ['mulyodadi','sidomulyo','sumbermulyo'],
+    ['banguntapan','baturetno','jagalan','jambidan','potorono','singosaren','tamanan','wirokerten'],
+    ['bantul','palbapang','ringinharjo','sabdodadi','trirenggo'],
+    ['dlingo','jatimulyo','mangunan','muntuk','temuwuh','terong'],
+    ['girirejo','imogiri','karangtalun','karangtengah','kebonagung','selopamioro','sriharjo','wukisari'],
+    ['canden','patalan','sumberagung','trimulyo'],
+    ['bangunjiwo','ngestiharjo','tamantirto','tirtonirmolo'],
+    ['donotirto','parangtritis','tirtohargo','tirtomulyo','tirtosari'],
+    ['guwosari','sendangsari','triwidadi'],
+    ['caturharjo','gilangharjo','triharjo','wijirejo'],
+    ['srimulyo','sitimulyo','srimartani'],
+    ['bawuran','pleret','segoroyoso','wonokromo','wonolelo'],
+    ['panjangrejo','bangunharjo','srihardono','gadingsari','murtigading','srigading'],
+    ['argodadi','argorejo','argosari','argomulyo'],
+    ['bangunharjo','panggungharjo','pendowoharjo','timbulharjo'],
+    ['poncosari','trimurti']
+]
+console.log(ListKelurahanBantul)
